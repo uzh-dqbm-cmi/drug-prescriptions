@@ -1,0 +1,32 @@
+Cluster,Rank 1 disease,Rank 2 disease,Rank 3 disease,Rank 4 disease,Rank 5 disease
+C0,glaucoma,hypertension,cataract,eye/eyelid problem,osteoarthritis
+C1,depression,hypertension,anxiety/panic attacks,osteoarthritis,asthma
+C2,hypertension,high cholesterol,heart attack/myocardial infarction,angina,diabetes
+C3,hypertension,osteoarthritis,asthma,hayfever/allergic rhinitis,migraine
+C4,hypertension,osteoarthritis,asthma,high cholesterol,hypothyroidism/myxoedema
+C5,asthma,hayfever/allergic rhinitis,hypertension,eczema/dermatitis,emphysema/chronic bronchitis
+C6,hypertension,osteoarthritis,high cholesterol,asthma,hayfever/allergic rhinitis
+C7,osteoarthritis,hypertension,hypothyroidism/myxoedema,gastro-oesophageal reflux (gord) / gastric reflux,depression
+C8,high cholesterol,hypertension,diabetes,osteoarthritis,hypothyroidism/myxoedema
+C9,hypertension,depression,osteoarthritis,asthma,hypothyroidism/myxoedema
+C10,osteoporosis,hypertension,osteoarthritis,hypothyroidism/myxoedema,breast cancer
+C11,depression,hypertension,insomnia,asthma,osteoarthritis
+C12,hypertension,asthma,osteoarthritis,hayfever/allergic rhinitis,high cholesterol
+C13,migraine,hypertension,asthma,osteoarthritis,hayfever/allergic rhinitis
+C14,asthma,hypertension,hayfever/allergic rhinitis,osteoarthritis,high cholesterol
+C15,osteoarthritis,hypertension,depression,back problem,asthma
+C16,hypertension,osteoarthritis,high cholesterol,asthma,migraine
+C17,hypertension,asthma,osteoarthritis,hayfever/allergic rhinitis,high cholesterol
+C18,depression,anxiety/panic attacks,hypertension,asthma,osteoarthritis
+C19,high cholesterol,hypertension,angina,diabetes,heart attack/myocardial infarction
+C20,hypothyroidism/myxoedema,hyperthyroidism/thyrotoxicosis,hypertension,asthma,osteoarthritis
+C21,hayfever/allergic rhinitis,asthma,hypertension,eczema/dermatitis,allergy/hypersensitivity/anaphylaxis
+C22,hypertension,high cholesterol,diabetes,osteoarthritis,angina
+C23,gastro-oesophageal reflux (gord) / gastric reflux,hypertension,hiatus hernia,asthma,osteoarthritis
+C24,osteoarthritis,hypertension,asthma,hayfever/allergic rhinitis,eczema/dermatitis
+C25,osteoporosis,hypertension,osteopenia,osteoarthritis,breast cancer
+C26,breast cancer,hypertension,asthma,osteoarthritis
+C27,enlarged prostate,iron deficiency anaemia,hypertension,bph / benign prostatic hypertrophy,asthma
+C28,rosacea,hypertension,asthma,eczema/dermatitis,acne/acne vulgaris
+C29,gastro-oesophageal reflux (gord) / gastric reflux,hiatus hernia,hypertension,osteoarthritis,asthma
+C30,high cholesterol,hypertension,osteoarthritis,asthma,diabetes

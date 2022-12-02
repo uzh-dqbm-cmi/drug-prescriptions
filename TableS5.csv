@@ -1,0 +1,32 @@
+Cluster,Rank 1 Meta-Drug,Rank 2 Meta-Drug,Rank 3 Meta-Drug,Rank 4 Meta-Drug,Rank 5 Meta-Drug
+C0,glaucoma,hypertension,osteoarthritis,angina,high cholesterol
+C1,depression,osteoarthritis,gord / gastric reflux,hypertension,hypothyroidism/myxoedema
+C2,hypertension,high cholesterol,angina,diabetes,osteoarthritis
+C3,osteoarthritis,-,-,-,-
+C4,hypertension,angina,hypothyroidism/myxoedema,gord / gastric reflux,high cholesterol
+C5,asthma,hayfever/allergic rhinitis,gord / gastric reflux,hypertension,depression
+C6,high cholesterol,osteoarthritis,hypertension,gord / gastric reflux,osteoporosis
+C7,osteoarthritis,gord / gastric reflux,angina,depression,hypothyroidism/myxoedema
+C8,high cholesterol,hypertension,osteoarthritis,gord / gastric reflux,diabetes
+C9,gord / gastric reflux,depression,osteoarthritis,rheumatoid arthritis,irritable bowel syndrome
+C10,osteoporosis,osteoarthritis,high cholesterol,gord / gastric reflux,hypertension
+C11,insomnia,depression,osteoarthritis,gord / gastric reflux,-
+C12,angina,-,-,-,-
+C13,migraine,osteoarthritis,hypertension,depression,gord / gastric reflux
+C14,asthma,osteoarthritis,hypertension,gord / gastric reflux,high cholesterol
+C15,back problem,osteoarthritis,depression,gord / gastric reflux,hypothyroidism/myxoedema
+C16,hypertension,osteoarthritis,high cholesterol,angina,depression
+C17,hypertension,gord / gastric reflux,gout,asthma,hypothyroidism/myxoedema
+C18,depression,osteoarthritis,gord / gastric reflux,hypertension,hypothyroidism/myxoedema
+C19,angina,high cholesterol,hypertension,osteoarthritis,diabetes
+C20,hypothyroidism/myxoedema,iron deficiency anaemia,pernicious anaemia,diabetes,irritable bowel syndrome
+C21,hayfever/allergic rhinitis,asthma,osteoarthritis,hypothyroidism/myxoedema,gord / gastric reflux
+C22,hypertension,high cholesterol,angina,gord / gastric reflux,diabetes
+C23,gord / gastric reflux,hypothyroidism/myxoedema,irritable bowel syndrome,gout,eczema/dermatitis
+C24,osteoarthritis,-,-,-,-
+C25,osteoporosis,high cholesterol,hypothyroidism/myxoedema,gord / gastric reflux,-
+C26,breast cancer,osteoarthritis,hypothyroidism/myxoedema,hypertension,gord / gastric reflux
+C27,enlarged prostate,iron deficiency anaemia,osteoarthritis,gord / gastric reflux,hypertension
+C28,rosacea,acne/acne vulgaris,hypertension,gord / gastric reflux,osteoarthritis
+C29,gord / gastric reflux,hypothyroidism/myxoedema,irritable bowel syndrome,hayfever/allergic rhinitis,gout
+C30,high cholesterol,-,-,-,-

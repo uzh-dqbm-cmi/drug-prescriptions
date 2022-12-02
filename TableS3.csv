@@ -1,0 +1,32 @@
+Cluster,Rank 1 medication,Rank 2 medication,Rank 3 medication,Rank 4 medication,Rank 5 medication
+C0,Latanoprost,Timolol,Bimatoprost,Timolol / Dorzolamide,Travoprost
+C1,Amitriptyline,Venlafaxine,Dosulepin,Mirtazapine,St. John'S Wort
+C2,Acetylsalicylic Acid,Simvastatin,Ramipril,Bendroflumethiazide,Amlodipine
+C3,Acetaminophen,Glucosamine,Tramadol,Chondroitin Sulfate,Naproxen
+C4,Bendroflumethiazide,Atenolol,Amlodipine,Ramipril,Doxazosin
+C5,Salbutamol,Beclomethasone Dipropionate,Salmeterol / Fluticasone Propionate,Fluticasone Propionate,Formoterol / Budesonide
+C6,Fish Oil,Glucosamine,Chondroitin Sulfate,Acetaminophen,Ezetimibe
+C7,Acetaminophen,Glucosamine,Acetylsalicylic Acid,Omeprazole,Levothyroxine
+C8,Simvastatin,Acetaminophen,Atorvastatin,Levothyroxine,Omeprazole
+C9,Omeprazole,Acetaminophen,Levothyroxine,Folic Acid,Acetaminophen / Codeine
+C10,Cholecalciferol / Calcium Carbonate,Alendronic Acid,Acetaminophen,Glucosamine,Levothyroxine
+C11,Zopiclone,Acetaminophen,Temazepam,Zolpidem,Citalopram
+C12,Acetylsalicylic Acid,Verapamil,Diltiazem,Clopidogrel,Nitroglycerin
+C13,Sumatriptan,Acetaminophen,Zolmitriptan,Naratriptan,Rizatriptan
+C14,Salbutamol,Beclomethasone Dipropionate,Acetaminophen,Salmeterol / Fluticasone Propionate,Acetylsalicylic Acid
+C15,Acetaminophen / Codeine,Acetaminophen,Acetaminophen / Dihydrocodeine,Omeprazole,Amitriptyline
+C16,Acetaminophen,Bendroflumethiazide,Amlodipine,Glucosamine,Atenolol
+C17,Amlodipine,Ramipril,Lisinopril,Perindopril,Felodipine
+C18,Citalopram,Fluoxetine,Acetaminophen,Paroxetine,Sertraline
+C19,Acetylsalicylic Acid,Simvastatin,Atorvastatin,Metformin,Atenolol
+C20,Levothyroxine,Iron,Cyanocobalamin,Hydroxocobalamin,Insulin
+C21,Cetirizine,Loratadine,Fexofenadine,Chlorphenamine,Desloratadine
+C22,Acetylsalicylic Acid,Simvastatin,Acetaminophen,Bendroflumethiazide,Omeprazole
+C23,Ranitidine,Cimetidine,Sodium Bicarbonate / Calcium Carbonate / Alginic Acid,Levothyroxine,Allopurinol
+C24,Glucosamine,Chondroitin Sulfate,Naproxen,Diclofenac / Misoprostol,Meloxicam
+C25,Cholecalciferol / Calcium Carbonate,Alendronic Acid,Calcium,Calcium Carbonate,Tibolone
+C26,Tamoxifen,Anastrozole,Letrozole,Exemestane,Levothyroxine
+C27,Tamsulosin,Iron,Finasteride,Alfuzosin,Dutasteride
+C28,Oxytetracycline,Doxycycline,Lymecycline,Metronidazole,Minocycline
+C29,Omeprazole,Lansoprazole,Sodium Bicarbonate / Calcium Carbonate / Alginic Acid,Esomeprazole,Levothyroxine
+C30,Simvastatin,Atorvastatin,Rosuvastatin,Pravastatin,Fenofibrate
